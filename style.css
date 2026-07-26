@@ -677,3 +677,15 @@ section h2{
 nav a.active{
     color:#ff4f91;
 }
+#birthday-song{
+    text-align:center;
+    padding:60px 20px;
+    background:linear-gradient(135deg,#2b002b,#5c004d,#8b006b);
+    color:#fff;
+}
+
+#birthday-song audio{
+    width:90%;
+    max-width:500px;
+    margin-top:20px;
+}
